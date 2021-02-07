@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "tour-of-heroes-658c7": {
+      "hosting": {
+        "angular-tour-of-heroes": [
+          "tour-of-heroes-658c7"
+        ]
+      }
+    }
+  }
+}
